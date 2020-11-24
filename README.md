@@ -5,7 +5,7 @@ Nim  : 312010135 <br>
 Kelas: TI.A1.20 <br>
 
 ![poto](ss/tugas5.png) <br>
-link untuk repository [click here]()
+link untuk repository [click here](https://pastelink.net/2aabh)
 
 
 * pada praktikum 5 ini, saya akan membuat program sederhana untuk menginput data kedalam list. <br>
