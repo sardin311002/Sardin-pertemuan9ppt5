@@ -205,7 +205,7 @@ Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke d
 
 * Terakhir kita akan mencetak gambar dari flowcart
 
-![poto](ss/gambar%20flowcart.png)
+![poto](ss/flowcart.png)
 
 ### SEKIAN TERIMAKASIH
 
